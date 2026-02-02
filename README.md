@@ -565,7 +565,7 @@ If you find this project helpful or interesting:
 
 <div align="center">
 
-**Built with ❤️ for the NVIDIA GTC 2026 Reachy Mini Contest**
+**Built with ❤️ for the NVIDIA GTC 2026 Golden Ticket Contest**
 
 [⭐ Star on GitHub](https://github.com/aarshsharma2803-stack/empathetic-reachy-mini) • [🚀 Try Live Demo](https://huggingface.co/spaces/Aarsh2003/empathetic-reachy-mini)
 
