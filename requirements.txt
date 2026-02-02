@@ -1,0 +1,37 @@
+# =============================================================
+# EMPATHETIC REACHY - requirements.txt
+# MacBook Air (M1/M2/Intel) | Python 3.10+
+# =============================================================
+# ⚠️  reachy-mini is NOT here — install separately:
+#     uv pip install "reachy-mini[mujoco]"
+# =============================================================
+
+# --- AI & LLM ---
+anthropic>=0.18.0
+
+# --- Speech-to-Text ---
+faster-whisper>=0.10.0
+
+# --- Text-to-Speech ---
+gTTS>=2.5.0
+pydub>=0.25.1
+
+# --- Audio I/O (MacOS compatible) ---
+sounddevice>=0.4.6
+scipy>=1.11.0
+
+# --- NLP / Emotion ---
+textblob>=0.17.1
+nltk>=3.9.0
+
+# --- Computer Vision ---
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+
+# --- Web UI ---
+gradio>=4.16.0
+
+# --- Core ---
+numpy>=1.24.0
+python-dotenv>=1.0.0
+requests>=2.31.0
