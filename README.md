@@ -17,7 +17,7 @@ Transform Reachy Mini into an emotionally intelligent companion that:
 - 💬 Maintains **natural conversations** with context and memory
 - 🤖 Speaks with a **custom robotic voice** personality
 
-Built for the **NVIDIA GTC 2026 GOLDEN TICKET Contest** using state-of-the-art AI technologies.
+Built for the **NVIDIA GTC 2026 GOLDEN TICKET Contest** using latest technologies.
 
 ---
 
