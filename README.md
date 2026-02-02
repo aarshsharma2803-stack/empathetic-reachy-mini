@@ -244,11 +244,11 @@ empathetic-reachy-mini/
     └── empathetic_reachy/
         ├── __init__.py             # Package initialization
         ├── config.py               # Configuration settings
-        ├── conversation_manager.py # AI orchestration (270 lines)
-        ├── emotion_analyzer.py     # Emotion detection (120 lines)
-        ├── gesture_controller.py   # 12 gesture animations (90 lines)
-        ├── head_mirroring.py       # Face tracking system (150 lines)
-        ├── voice_animator.py       # Speech animations (60 lines)
+        ├── conversation_manager.py # AI orchestration 
+        ├── emotion_analyzer.py     # Emotion detection 
+        ├── gesture_controller.py   # 12 gesture animations 
+        ├── head_mirroring.py       # Face tracking system 
+        ├── voice_animator.py       # Speech animations 
         └── list_microphones.py     # Audio device utility
 ```
 
